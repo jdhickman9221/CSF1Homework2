@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{919E2D5A-0CD2-4FCE-9153-F699D9AE554A}</ProjectGuid>
+    <ProjectGuid>{0C216866-C109-47CB-B90A-A9507AFCC83C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CSF1Homework</RootNamespace>
-    <AssemblyName>CSF1Homework</AssemblyName>
+    <RootNamespace>MadLib</RootNamespace>
+    <AssemblyName>MadLib</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FruitLoops1and2.cs" />
+    <Compile Include="MadLib.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
